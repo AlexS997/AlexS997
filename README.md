@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alex
 
-#### 🧑‍💻 Junior Full-Stack Developer | 2 Years of Experience
+### 🧑‍💻 Junior Full-Stack Developer | 2 Years of Experience
 
 I'm focused on building responsive and user-friendly websites, with a strong passion for modern web development. I work primarily with technologies like **React**, **Vite**, **JavaScript**, **HTML**, and **CSS**.
 
