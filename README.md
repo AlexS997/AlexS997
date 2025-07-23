@@ -63,7 +63,9 @@ Coding keeps my mind sharp, and the gym keeps me grounded — I believe discipli
 Feel free to check out my work or reach out if you'd like to collaborate!
 
 <div display="flex" align="center">
-  <img src="https://count.getloli.com/@AlexS997?name=AlexS997&theme=rule34&padding=1&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=001">
+  <a href="#" onclick="event.preventDefault()">
+    <img src="https://count.getloli.com/@AlexS997?name=AlexS997&theme=rule34&padding=1&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=001">
+  </a>
 </div>
 
 <br/>
