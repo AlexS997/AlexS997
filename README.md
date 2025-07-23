@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Alex
+<div align="center">
+  <a href="https://github.com/AlexS997"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&random=false&width=135&lines=Hi+there+%F0%9F%91%8B;I'm+Alex;I'm+a+web+developer;I'm+a+fullstack+developer" alt="Typing SVG" /></a>  
+</div>
+
+$$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
 ### 🧑‍💻 Junior Full-Stack Developer | 2 Years of Experience
 
@@ -58,4 +62,11 @@ Coding keeps my mind sharp, and the gym keeps me grounded — I believe discipli
 
 Feel free to check out my work or reach out if you'd like to collaborate!
 
+<div display="flex" align="center">
+  <img src="https://count.getloli.com/@AlexS997?name=AlexS997&theme=rule34&padding=1&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=001">
+</div>
+
 <br/>
+<a href="#" onclick="event.preventDefault()">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80" />
+</a>
