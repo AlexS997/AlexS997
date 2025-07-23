@@ -59,5 +59,3 @@ Coding keeps my mind sharp, and the gym keeps me grounded — I believe discipli
 Feel free to check out my work or reach out if you'd like to collaborate!
 
 <br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexS997)](https://github.com/ryo-ma/github-profile-trophy)
